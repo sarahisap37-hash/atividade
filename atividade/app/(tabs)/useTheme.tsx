@@ -1,4 +1,4 @@
-import AsyncStorage from '@react-native-async-storage/async-storage';
+import  useTheme from @useTheme;
 import { createContext, ReactNode, useContext, useEffect, useState } from "react";
 
 export interface ColorScheme {
